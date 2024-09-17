@@ -1,0 +1,5 @@
+video_turtuorial_devIoT/
+*.old
+*.o
+build/
+Espressif/
